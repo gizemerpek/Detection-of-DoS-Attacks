@@ -28,13 +28,12 @@ In the final stage, I designed a more complex neural network architecture combin
 
 6. Performance Evaluation
 To evaluate each model's performance, the following metrics were used:
-
-Accuracy
-Precision
-Recall
-F1-Score
-ROC AUC (Area Under the Curve)
-Confusion Matrix
+Accuracy,
+Precision,
+Recall,
+F1-Score,
+ROC AUC (Area Under the Curve),
+Confusion Matrix,
 Loss and Accuracy Graphs
 
 7. Conclusion and Learnings
